@@ -8,7 +8,7 @@ Un outil simple écrit en Python pour scanner des ports TCP ouverts sur une cibl
 
 🛠️ Utilisation
 
-python3 port-scanner.py -t 192.168.1.1 -p 20-100
+python3 port-scanner.py -t 192.168.1.1 -p 20 to 100
 
 📦 Paramètres
 
